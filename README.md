@@ -1,2 +1,2 @@
 # test
-just testing create a repository
+testing repository for auto merge purpose
