@@ -1,2 +1,2 @@
 # test
-testing repository for auto merge purpose
+repository which using for test auto merge bot
