@@ -36,6 +36,6 @@
 # directory in the root of your repository.
 # example: /docs/ @doctocat
 
-# Core Apps CI-CD Ownership
+# Administrator owners
 /README.md @mfiremannur
 
